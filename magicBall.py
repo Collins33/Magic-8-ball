@@ -1,0 +1,1 @@
+print("Enter any life questions you have:")
